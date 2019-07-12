@@ -28,7 +28,8 @@ import java.net.UnknownHostException;
 /**
  * GroupMessengerActivity is the main Activity for the assignment.
  * 
- * @author stevko
+ * @author stevko,Malvika
+ *
  *
  */
 public class GroupMessengerActivity extends Activity {
@@ -133,8 +134,6 @@ public class GroupMessengerActivity extends Activity {
     // The below code snippet is also taken from PA-1
 
     /************************************************************
-     Person No:50290572
-     ---------------
      References Used
      ---------------
 
@@ -229,8 +228,6 @@ public class GroupMessengerActivity extends Activity {
     // The below code snippet is also taken from PA-1
 
     /************************************************************
-     Person No:50290572
-     ---------------
      References Used
      ---------------
      1) https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html

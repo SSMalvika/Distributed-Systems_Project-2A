@@ -30,7 +30,7 @@ import java.util.Set;
  * There are two methods you need to implement---insert() and query(). Others are optional and
  * will not be tested.
  * 
- * @author stevko
+ * @author stevko,Malvika
  *
  */
 public class GroupMessengerProvider extends ContentProvider {
